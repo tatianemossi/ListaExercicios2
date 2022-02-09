@@ -26,7 +26,7 @@ namespace exercicio5.ConsoleApp
             else
                 c = a * b;
 
-            Console.WriteLine("O resultado do cálculo é de " + c);
+            Console.WriteLine("O resultado do cálculo é de: " + c);
             Console.ReadLine();
         }
     }
